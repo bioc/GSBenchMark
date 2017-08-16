@@ -1,0 +1,13 @@
+GSBenchMarkDatasets: GSBenchMark.Dataset.names
+bipolar_GDS2190: exprsdata logexprsdata phenotypes phenotypesLevels
+breast_GDS807: exprsdata logexprsdata phenotypes phenotypesLevels
+diracpathways
+leukemia_GSEA: exprsdata logexprsdata phenotypes phenotypesLevels
+marfan_GDS2960: exprsdata logexprsdata phenotypes phenotypesLevels
+melanoma_GDS2735: exprsdata logexprsdata phenotypes phenotypesLevels
+parkinsons_GDS2519: exprsdata logexprsdata phenotypes phenotypesLevels
+prostate_GDS2545_m_nf: exprsdata logexprsdata phenotypes phenotypesLevels
+prostate_GDS2545_m_p: exprsdata logexprsdata phenotypes phenotypesLevels
+prostate_GDS2545_p_nf: exprsdata logexprsdata phenotypes phenotypesLevels
+sarcoma_data: exprsdata logexprsdata phenotypes phenotypesLevels
+squamous_GDS2520: exprsdata logexprsdata phenotypes phenotypesLevels
